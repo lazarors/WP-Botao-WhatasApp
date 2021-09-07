@@ -1,9 +1,9 @@
-=== Flickr Gallery ===
+=== Botão WhatsApp ===
 Contributors: dancoulter
-Donate link: http://co.deme.me/donate/
-Tags: photos, flickr, gallery, shortcodes
+Donate link: 
+Tags: photos, menssage, whatsapp
 Requires at least: 2.9
-Tested up to: 3.0.1
+Tested up to: 1.0.0
 Stable tag: 1.5.3
 
 Quickly and easily add Flickr galleries, photos, and even custom search results into your WordPress pages and posts.
@@ -17,26 +17,7 @@ your Flickr photos into your WordPress pages and posts.
 
 Features include:
 
-* A quick gallery of your recent photos, photosets and most popular photos.
-* Easy database caching (just click a checkbox) 
-* Displays the photos from one photoset
-* Displays all of a user's photos with given tags
-* Displays the results of a custom search
-* Inserts a single photo into your content
-* Embeds Flickr's flash movie player for videos
-* Authenticate to display your private photos
-* Lightbox script makes it easy to browse photos without leaving the page
-* Plugin API to let sites configure the tabs in their gallery
-* View photosets in the gallery mode without leaving the page
-* Lightboxes are now generated for every gallery mode
-* WordPress MU Support
-* Pagination in galleries
-* All images smaller than "medium" will load in the lightbox effect (if enabled) when the user clicks on them.
-* Add a "Collections" tab to the default gallery
-* Select which tabs the gallery displays
-* Set the lightbox to display larger than "medium" photos if the user's browser window is large enough.
-* Easier "Web" based authentication to the Flickr API.
-* **New**: Show the photo's description inside the lightbox alongside the larger photos.
+
 
 == Installation ==
 
