@@ -12,7 +12,7 @@ Quickly and easily add Flickr galleries, photos, and even custom search results 
 
 This plugin is deprecated, please remove it from your WordPress install.
 
-Using the "shortcodes" system in WordPress 2.5 and up, this plugin will allow you to quickly and easily incorporate 
+Using the "shortcodes" system in WordPress 5.8 and up, this plugin will allow you to quickly and easily incorporate 
 your Flickr photos into your WordPress pages and posts.
 
 Features include:
